@@ -1,0 +1,19 @@
+.field{
+     border: 1px dashed rebeccapurple;
+     padding: 0;
+}
+
+h1{
+     text-align: center;
+}
+
+.field:hover .bat{
+     transform: rotate(-60deg);
+}
+
+.ball{
+     height: 50px;
+     width: 50px;
+     background-color: red;
+     border-radius: 50%;
+}
